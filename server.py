@@ -1,7 +1,7 @@
 import socket
 import threading
 
-IP = '0.0.0.0' # Change me
+IP = '192.168.160.129' # Change me
 PORT = 9998 # Change Me
 
 def main():
